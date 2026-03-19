@@ -1,5 +1,5 @@
-title=POPRISM Web Browser
-subtitle=Text-Based Internet Browser for Roku
+title=Rename
+subtitle=You_know
 mm_icon_focus_hd=pkg:/images/BrowserMainMenu_Icon_Center_HD.png
 mm_icon_side_hd=pkg:/images/BrowserMainMenu_Icon_Side_HD.png
 mm_icon_focus_sd=pkg:/images/BrowserMainMenu_Icon_Center_SD43.png
@@ -7,6 +7,6 @@ mm_icon_side_sd=pkg:/images/BrowserMainMenu_Icon_Side_SD43.png
 splash_screen_hd=pkg:/images/BrowserSplash.png
 splash_screen_sd=pkg:/images/BrowserSplash.png
 splash_color=#b1ac9e
-major_version=1
+major_version=2
 minor_version=0
-build_version=101105
+build_version=101106
