@@ -293,7 +293,7 @@ function appUrlScreen() as String
          if type(msg) = "roKeyboardScreenEvent"
              if msg.isScreenClosed()
                  return ""
-             else if msg.isButtonPressed() then
+             else if msg.isButtonPressed()
                  if msg.GetIndex() = 1
                      searchText = screen.GetText()
                      print "search text: "; searchText 
