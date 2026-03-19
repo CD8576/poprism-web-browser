@@ -1,7 +1,7 @@
 ''
 ' Style the non-custom screens
 ''
-function styleMenus() as void
+function styleMenus() as Void
     app = CreateObject("roAppManager")
 
     primaryText                 = "#h8A8A5C"
