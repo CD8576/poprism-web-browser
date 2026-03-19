@@ -31,9 +31,10 @@ function historyPop() as String
 		return ""
 	else
 		last = m.data.pop()
-		if last <> invalid
-			return ""
-		end if
+		// CORRECT:
+if last = invalid
+    return ""
+end if
 		return last
 	end if		
 end function
